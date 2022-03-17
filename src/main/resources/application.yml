@@ -127,4 +127,4 @@ resilience4j.timelimiter:
         backendA:
             baseConfig: default
         backendB:
-            baseConfig: default
+            baseConfig: default1
